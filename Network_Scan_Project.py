@@ -2,7 +2,9 @@
 
 #Menu driven network scanning tool:
 import nmap
+import os
 
+os.system('banner NETSCAN')
 def scan_single_host():
 	nm = nmap.PortScanner() #Create object of nmap port scannet class
 	ip_address = input("\tEnter the IP : ")
