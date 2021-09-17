@@ -1,0 +1,9 @@
+
+3.Write a network scanner tool:
+	-Scan single host
+	-scan range
+	-Scan network
+	-Agressive scan
+	-Scan ARP packet
+	-Scan All port only
+	-Scan in verbose mode
